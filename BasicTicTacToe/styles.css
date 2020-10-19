@@ -1,0 +1,23 @@
+#game-container {
+    margin: 10px 10px;
+    color :green;
+}
+.cell
+{
+    height : 50px;
+    width : 50px;
+    border : 1px solid black;
+    border-radius : 5px;
+    color: darkolivegreen ;
+}
+.cell:hover{
+    background-color:lightpink;
+}
+
+.hide
+{
+    display:none;
+}
+.row{
+    display : flex;
+}
